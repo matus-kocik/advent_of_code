@@ -1,7 +1,7 @@
 import re
 
+file_path = "input_01_01.txt"
 
-file_path = "2023/input_01_01.txt"
 
 
 def sum_calibration_value():

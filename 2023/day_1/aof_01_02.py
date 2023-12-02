@@ -1,7 +1,7 @@
 import re
 
 
-file_path = "2023/input_01_02.txt"
+file_path = "input_01_02.txt"
 allowed_words = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 
 
